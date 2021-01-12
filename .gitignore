@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+tests
+pft
+42test
+pft_2019
+a.out.dSYM
+a.out
+logs
+log_to_file.c
+main.c
